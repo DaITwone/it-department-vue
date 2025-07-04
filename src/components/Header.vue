@@ -17,6 +17,7 @@
             <ul class="dropdown">
               <li><router-link to="/about">Lịch sử hình thành</router-link></li>
               <li><router-link to="/staff">Đội ngũ nhân sự</router-link></li>
+              <li><router-link to="/teacher-list">Danh sách giảng viên</router-link></li>
             </ul>
           </li>
           <li><router-link to="/news" class="nav-link">Tin tức</router-link></li>
