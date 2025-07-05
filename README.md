@@ -1,11 +1,11 @@
-# 🎓 IT Department - Vue 3 Web App
+# IT Department - Vue 3 Web App
 
 This is a web application for the Information Technology Department, built with Vue 3.  
 It helps manage user accounts and display teacher data. All data is stored and managed using **Supabase**.
 
 ---
 
-## 🚀 Main Features
+## Main Features
 
 - ✅ User registration, login, and password reset
 - ✅ Manage teacher list with full CRUD (Create, Read, Update, Delete)
@@ -15,7 +15,7 @@ It helps manage user accounts and display teacher data. All data is stored and m
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - [Vue 3](https://vuejs.org/) – modern JavaScript framework
 - [Supabase](https://supabase.io/) – backend and database
@@ -24,7 +24,7 @@ It helps manage user accounts and display teacher data. All data is stored and m
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Requirements
 
